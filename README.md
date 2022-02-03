@@ -17,6 +17,7 @@ Our vision is to create an engaging, reliable and seamless environment to help n
 
 
 ### Core Values
+  - Optimistic
   - Progressive
   - Questing
   - Rational
