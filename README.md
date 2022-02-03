@@ -1,5 +1,5 @@
 # What is Ubrant?
-*Ubrant* is agglomerate of passionate trainers and researchers; targetting at training next generation to design & develope state of the art and rugged yet delicate systems.
+*Ubrant* is agglomerate of passionate trainers and researchers; targetting at training next generation in designing & developing state of the art and rugged yet delicate systems.
 
 
 
