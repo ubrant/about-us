@@ -1,11 +1,11 @@
 # What is '*Ubrant*' about?
-The agglomerate of passionate researchers and fervid trainers; targetting educating the next generation in designing & developing state of the art and rugged yet delicate systems.
+The agglomerate of passionate researchers and fervid trainers; targetting educating the next generations in designing & developing state of the art and rugged yet delicate systems.
 
 
 
 
 ### Mission
-We help next generation succeed in technology focused economies.
+We help next generations succeed in technology focused economies.
 
 
 
