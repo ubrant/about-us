@@ -1,4 +1,4 @@
-# What is '*Ubrant*' about?
+# What is '*Ubrant*' all about?
 The agglomerate of passionate researchers and fervid trainers; targetting educating the next generations in designing & developing state of the art and rugged yet delicate systems.
 
 
