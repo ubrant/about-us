@@ -11,7 +11,7 @@ We help next generation succeed in technology focused economies.
 
 
 ### Vision
-Our vision is to create an engaging, reliable and seamless environment to help next generation germinate confidently in modern world of exponential technological growth.
+Our vision is to create an engaging, reliable, seamless and continuously improving environment to help next generations germinate confidently in modern world of exponential technological growth.
 
 
 
