@@ -5,7 +5,7 @@ The agglomerate of passionate researchers and fervid trainers; targetting educat
 
 
 ### Mission
-We help next generation succeed in technology focused world.
+We help next generation succeed in technology focused economies.
 
 
 
