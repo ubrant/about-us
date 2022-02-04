@@ -5,7 +5,7 @@
 
 
 ### Mission
-We help next generation succeed in modern technology driven world.
+We help next generation succeed in technology focused world.
 
 
 
