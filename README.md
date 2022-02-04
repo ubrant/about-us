@@ -19,9 +19,7 @@ Our vision is to create an engaging, reliable, seamless and continuously improvi
 ### Core Values
   - Optimistic
   - Progressive
-  - Questing
   - Rational
-  - Straightforward
   - Trustworthy
   - United
 
