@@ -1,5 +1,5 @@
 # What is '*Ubrant*' about?
-The agglomerate of passionate researchers and trainers; targetting training next generation in designing & developing state of the art and rugged yet delicate systems.
+The agglomerate of passionate researchers and fervid trainers; targetting training next generation in designing & developing state of the art and rugged yet delicate systems.
 
 
 
